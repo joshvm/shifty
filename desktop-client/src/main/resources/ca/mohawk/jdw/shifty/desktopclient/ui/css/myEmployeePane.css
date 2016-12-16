@@ -1,0 +1,9 @@
+.label, .text-area {
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.label {
+    -fx-font-size: 30px;
+}

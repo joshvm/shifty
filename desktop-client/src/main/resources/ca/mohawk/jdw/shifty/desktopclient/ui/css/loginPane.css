@@ -1,0 +1,27 @@
+.debug {
+    -fx-border-style: solid;
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+}
+
+.promptLabel {
+    -fx-text-alignment: right;
+    -fx-alignment: center-right;
+    -fx-font-weight: bold;
+}
+
+.title {
+    -fx-font-size: 40px;
+    -fx-font-weight: bolder;
+}
+
+.loginButton {
+    -fx-font-size: 20px;
+}
+
+.loginDetails {
+    -fx-font-weight: bold;
+    -fx-font-size: 18;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}

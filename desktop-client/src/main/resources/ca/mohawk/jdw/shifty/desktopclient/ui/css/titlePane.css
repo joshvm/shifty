@@ -1,0 +1,13 @@
+.label {
+    -fx-text-alignment: center;
+    -fx-font-size: 20px;
+}
+
+.name {
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+}
+
+.tooltip {
+    -fx-font-size: 14px;
+}

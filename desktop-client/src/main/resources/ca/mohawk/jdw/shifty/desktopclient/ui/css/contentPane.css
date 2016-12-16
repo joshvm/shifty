@@ -1,0 +1,41 @@
+.cellLabel {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.cellBiggerLabel {
+    -fx-font-size: 20px;
+}
+
+.placeholderLabel {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-size: 35px;
+    -fx-text-fill: darkgrey;
+}
+
+.bordered {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-radius: 5;
+    -fx-border-width: 2;
+}
+
+.green {
+    -fx-background-color: green;
+}
+
+.yellow {
+    -fx-background-color: yellow;
+}
+
+.red {
+    -fx-background-color: red;
+}
+
+.orange {
+    -fx-background-color: orange;
+}

@@ -1,0 +1,17 @@
+.list-cell:empty {
+    -fx-opacity: 0;
+}
+
+.navItem {
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.heading {
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-font-weight: bolder;
+    -fx-font-size: 30px;
+}
